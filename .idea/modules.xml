@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DailyRecord.iml" filepath="$PROJECT_DIR$/DailyRecord.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/record-core/record-core.iml" filepath="$PROJECT_DIR$/record-core/record-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/record-ui/record-ui.iml" filepath="$PROJECT_DIR$/record-ui/record-ui.iml" />
     </modules>
   </component>
 </project>
